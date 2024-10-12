@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Toto je zmena!!!!
+
 
         RodinnyDum dumNovakovych = new RodinnyDum(185.5f,3,4, true,"Adresa1");
         float cenaNovaku = dumNovakovych.vypocetCenyDomu();
